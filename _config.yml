@@ -20,7 +20,7 @@ author: yann
 ###############################################
 
 navbar-links:
-  About Me: "about me"
+  # About Me: "about me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
